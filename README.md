@@ -2,6 +2,8 @@
 
 Retention prediction, also known as _customer churn prediction_, is a process in data science and business analytics that aims to identify and predict the likelihood of customers or users discontinuing their relationship with a company, product, or service. The term `retention` refers to the ability of a business to retain its customers over a specific period.
 
+![churn-prediction.png](/config/churn-prediction.png)
+
 ##  Bank Customer Retention Prediction
 In this assignment, you will build a Machine Learning model to predict whether a bank customer is likely to churn (exit) or not based on various features such as credit score, age, tenure, and more. The dataset contains information about the customers, including their demographics, banking behaviors, and whether they have exited the bank (the label to be predicted). The dataset consists of the following columns:
 
